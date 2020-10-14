@@ -35,7 +35,8 @@ Each heading in the list and links below it relates a section of the documentati
 
 - [Gatsby Tutorials](https://www.gatsbyjs.com/tutorial/)
 - [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
-- [Twilio Guides](https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates) 
+- [Twilio Guides](https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates)
+- [Repl.it Tutorials](https://docs.repl.it/tutorials/00-overview)
 
 ## References
 
