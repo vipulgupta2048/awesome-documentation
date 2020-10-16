@@ -80,7 +80,8 @@ Below, you can find the table of contents with each heading in the list corressp
 
 ## Changelog
 
-- Need more suggestions, checkout issues and contribute yours.
+- [GatherContent](https://gathercontent.com/whats-new)
+- [Todoist changelogs](https://get.todoist.help/hc/en-us/sections/360004759319-Changelogs)
 
 ## Patterns & Best Practices
 
