@@ -5,9 +5,11 @@
 
 ## About
 
-Once upon a time, I set out to find and share great examples of technical documentation over the web. But, couldn't find a single awesome community curated resouce containing great documentation examples that were categoried as per their usecases. Well, that's how this awesome list came along. Be sure to add even more documentation websites that you see all over the web. 
+Once upon a time, I set out to find and share great examples of technical documentation over the web. But, couldn't find a single **awesome** _community-curated_ `resource` that provided great examples of docs categoried according to their usecases. Well, look no further for the awesome-documenation list here! And, we are looking for even more examples.
 
-Each heading in the list and links below it relates a section of the documentation that is equal parts captivating, interesting and inspiring. If code for the repository is open-source, it would be linked right next to it. Below you can find, table of contents.
+Below, you can find the table of contents with each heading in the list corressponding to an actual section of the documentation. In each of the headings contains examples of documentation that is equal parts captivating, interesting and inspiring for the readers. If code for the repository is open-source, it would be linked right next to it.
+
+## Table of Contents
 
 - [Getting Started](#getting-started)
 - [Tutorials & Guides](#tutorials--guides)
