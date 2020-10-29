@@ -74,7 +74,8 @@ Below, you can find the table of contents with each heading in the list corressp
 
 ## Focus on Accessiblity (a11y)
 
-- Need more suggestions, checkout issues and contribute yours.
+- [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
+- [Accessibility | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 
 ## Focus on Internationalization (i18n)
 
