@@ -18,7 +18,7 @@ Once upon a time, I set out to find a single **awesome** _community-curated_ `re
 
 ## Table of Contents
 
-Each of the headings listed below corresponds to an actual section of documentation. Each heading contains examples of docs that is equal parts captivating, interesting, and inspiring for the readers. If code for the documentation site is open-source, please do update it by putting a link right next to it. 
+Each of the headings listed below corresponds to an actual section of documentation. Each heading contains examples of docs that are equal parts captivating, interesting, and inspiring for the readers. If the code for the documentation site is open-source, please do update it by putting a link right next to it. 
 
 - [Getting Started](#getting-started)
 - [Tutorials & Guides](#tutorials--guides)
@@ -37,12 +37,12 @@ Each of the headings listed below corresponds to an actual section of documentat
 
 ---
 
-## All stars of documentation!
+## All-stars of documentation!
 
 > 🌟 The best of the best overall 🌟 
 
-- [Gitlab](https://about.gitlab.com/resources/) - Gitlab's accurate docs coupled with flow of information and scale they handle sets them apart to be a prime example for techincal, non-technical as well as internal documentation. Their handbook, guides, tutorials are extremely well done. Look no further.
-- Looking forward to review & add more to the list below, [Hit me up!!](https://twitter.com/vipulgupta2048) or make a pull request of your own!
+- [Gitlab](https://about.gitlab.com/resources/) - Gitlab's accurate docs coupled with the flow of information and scale they handle sets them apart to be a prime example for technical, non-technical as well as internal documentation. Their handbook, guides, tutorials are extremely well done. Look no further.
+- Looking forward to reviewing & adding more to the list below, [Hit me up!!](https://twitter.com/vipulgupta2048) or make a pull request of your own! It's all good!
 
 
 ## Getting Started 
@@ -101,7 +101,7 @@ Each of the headings listed below corresponds to an actual section of documentat
 
 ## Great Discoverability in Docs
 
-Docs having pretty as heck, landing pages intelligently leaking details about product, getting started, ways ahead, guides, maybe even their CLI, integrations, SDK, or API. 
+Docs having pretty as heck, landing pages intelligently leaking details about the product, getting started, ways ahead, guides, maybe even their CLI, integrations, SDK, or API. 
 
 - [Terraform Docs](https://www.terraform.io/docs/index.html)
 - [Lodash docs](https://lodash.com/docs/4.17.15)
@@ -117,7 +117,7 @@ Docs having pretty as heck, landing pages intelligently leaking details about pr
 
 ## Focus on Accessiblity (a11y)
 
-- Need more suggestions, checkout issues and contribute yours.
+- Need more suggestions, checkout issues, and contribute yours.
 
 
 ## Focus on Internationalization (i18n)
