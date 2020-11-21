@@ -5,13 +5,20 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/vipulgupta2048/awesome-documentation?color=brightgreen&style=plastic) ![GitHub labels](https://img.shields.io/github/labels/vipulgupta2048/awesome-documentation/help-wanted?color=red&style=plastic) ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=plastic&color=blueviolet) [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0) [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ![ViewCount](https://views.whatilearened.today/views/github/vipulgupta2048/awesome-documentation.svg) 
 
 
-## About
+## Motivation behind the list
 
-Once upon a time, I set out to find and share great examples of technical documentation over the web. But, couldn't find a single **awesome** _community-curated_ `resource` that provided great examples of docs categorized according to their use-cases. Well, look no further for the awesome-documentation list here! And, we are looking for even more examples.
+Once upon a time, I set out to find a single **awesome** _community-curated_ `resource` that provided great examples of docs available all over the web. I couldn't find one and neither could my friend, Justin. So I created one and you are welcome! That's how awesome-documentation began. 
 
-Below, you can find the table of contents with each heading in the list corresponding to an actual section of the documentation. In each of the headings contains examples of documentation that is equal parts captivating, interesting, and inspiring for the readers. If code for the repository is open-source, it would be linked right next to it.
+![](https://user-images.githubusercontent.com/22801822/99884009-f25b2f00-2c50-11eb-8d7c-a47387fb0c39.png)
+
+🎯 Each item is categorized according to sections.
+👌 Focused on providing concrete examples & great inspiration to fellow documentarians. 
+📄 Some items feel they need to be there in other sections as well just because of how good they are but I want to keep duplicates to a minimum.
+👂 Looking forward to any and all suggestions!
 
 ## Table of Contents
+
+Each of the headings listed below corresponds to an actual section of documentation. Each heading contains examples of docs that is equal parts captivating, interesting, and inspiring for the readers. If code for the documentation site is open-source, please do update it by putting a link right next to it. 
 
 - [Getting Started](#getting-started)
 - [Tutorials & Guides](#tutorials--guides)
@@ -22,10 +29,11 @@ Below, you can find the table of contents with each heading in the list correspo
 - [CLI](#cli)
 - [Enterprise](#enterprise)
 - [Great Discoverablity in Docs](#great-discoverablity-in-docs)
+- [Keeping it Super Simple (KISS)](#keeping-it-super-simple-kiss)
 - [Focus on Accessiblity (a11y)](#focus-on-accessiblity-a11y)
 - [Focus on Internationalization (i18n)](#focus-on-internationalization-i18n)
 - [Changelog](#changelog)
-- [Patterns & Best Practices](#patterns--best-practices)
+- [Others](#others)
 
 ---
 
@@ -105,6 +113,11 @@ Docs having pretty as heck, landing pages intelligently leaking details about pr
 
 - [Asana Docs](https://asana.com/guide)
 - [Fast Logins Docs](https://www.fast.co/docs) 
+
+
+## Focus on Accessiblity (a11y)
+
+- Need more suggestions, checkout issues and contribute yours.
 
 
 ## Focus on Internationalization (i18n)
