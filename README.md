@@ -31,8 +31,11 @@ Below, you can find the table of contents with each heading in the list correspo
 
 ## All stars of documentation!
 
+> 🌟 The best of the best overall 🌟 
+
 - [Gitlab](https://about.gitlab.com/resources/) - Gitlab's accurate docs coupled with flow of information and scale they handle sets them apart to be a prime example for techincal, non-technical as well as internal documentation. Their handbook, guides, tutorials are extremely well done. Look no further.
 - Looking forward to review & add more to the list below, [Hit me up!!](https://twitter.com/vipulgupta2048) or make a pull request of your own!
+
 
 ## Getting Started 
 
@@ -42,6 +45,7 @@ Below, you can find the table of contents with each heading in the list correspo
 - [Prisma Getting Started](https://www.prisma.io/docs/getting-started/quickstart-typescript)
 - [Create React App](https://create-react-app.dev/docs/getting-started)
 
+
 ## Tutorials & Guides
 
 - [Gatsby tutorials](https://www.gatsbyjs.com/tutorial/)
@@ -49,15 +53,17 @@ Below, you can find the table of contents with each heading in the list correspo
 - [Twilio guides](https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates)
 - [Repl.it tutorials](https://docs.repl.it/tutorials/00-overview)
 
+
 ## References
 
 - [Docker references](https://docs.docker.com/reference/)
+
 
 ## Cookbooks & Integrations
 
 - [spaCy code examples](https://spacy.io/usage/examples) as well as [spaCy Guides](https://spacy.io/usage/linguistic-features)
 - [Vercel Guides](https://vercel.com/guides)
-- 
+ 
 
 ## API/SDK
 
@@ -66,20 +72,24 @@ Below, you can find the table of contents with each heading in the list correspo
 - [FastAPI API framework](https://fastapi.tiangolo.com/)
 - [Razorpay API reference](https://razorpay.com/docs/api/)
 
+
 ## Neat ways of versioning the docs
 
 - [GitHub docs](https://docs.github.com/en/free-pro-team@latest/github) - [Github Repository](https://github.com/github/docs)
 - Need more suggestions, checkout issues and contribute yours.
+
 
 ## CLI
 
 - [Click](https://click.palletsprojects.com/en/7.x/)
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
+
 ## Enterprise
 
 - [GitHub for Enterprise](https://docs.github.com/en/enterprise-server@2.22/admin)
 - [Gitlab Maturity Document](https://about.gitlab.com/direction/maturity/) 
+
 
 ## Great Discoverability in Docs
 
@@ -90,20 +100,24 @@ Docs having pretty as heck, landing pages intelligently leaking details about pr
 - [RazorPay Docs](https://razorpay.com/docs/)
 - [Algolia Docs](https://www.algolia.com/doc/)
 
+
 ## Keeping it Super Simple (KISS)
 
 - [Asana Docs](https://asana.com/guide)
 - [Fast Logins Docs](https://www.fast.co/docs) 
 
+
 ## Focus on Internationalization (i18n)
 
 - Need more suggestions, checkout issues, and contribute yours.
+
 
 ## Changelog
 
 - [GatherContent](https://gathercontent.com/whats-new)
 - [Todoist changelogs](https://get.todoist.help/hc/en-us/sections/360004759319-Changelogs)
 - [Notion Changelogs](https://www.notion.so/What-s-New-157765353f2c4705bd45474e5ba8b46c) - Incredible example of dogfooding.
+
 
 ## Others
 - [Notion Help & Support](https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004)
