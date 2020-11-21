@@ -117,7 +117,9 @@ Docs having pretty as heck, landing pages intelligently leaking details about th
 
 ## Focus on Accessiblity (a11y)
 
-- Need more suggestions, checkout issues, and contribute yours.
+- [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
+- [Accessibility | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- [Webflow Resources](https://a11yresources.webflow.io/)
 
 
 ## Focus on Internationalization (i18n)
