@@ -6,9 +6,9 @@
 
 ## About
 
-Once upon a time, I set out to find and share great examples of technical documentation over the web. But, couldn't find a single **awesome** _community-curated_ `resource` that provided great examples of docs categoried according to their usecases. Well, look no further for the awesome-documenation list here! And, we are looking for even more examples.
+Once upon a time, I set out to find and share great examples of technical documentation over the web. But, couldn't find a single **awesome** _community-curated_ `resource` that provided great examples of docs categorized according to their use-cases. Well, look no further for the awesome-documentation list here! And, we are looking for even more examples.
 
-Below, you can find the table of contents with each heading in the list corressponding to an actual section of the documentation. In each of the headings contains examples of documentation that is equal parts captivating, interesting and inspiring for the readers. If code for the repository is open-source, it would be linked right next to it.
+Below, you can find the table of contents with each heading in the list corresponding to an actual section of the documentation. In each of the headings contains examples of documentation that is equal parts captivating, interesting, and inspiring for the readers. If code for the repository is open-source, it would be linked right next to it.
 
 ## Table of Contents
 
@@ -47,12 +47,12 @@ Below, you can find the table of contents with each heading in the list corressp
 
 ## Cookbooks
 
-- Need more suggestions, checkout issues and contribute yours.
+- Need more suggestions, checkout issues, and contribute yours.
 
 ## API/SDK
 
 - [Stripe API Reference](https://stripe.com/docs/api)
-- Need more suggestions, checkout issues and contribute yours.
+- Need more suggestions, checkout issues, and contribute yours.
 
 ## Neat ways of versioning the docs
 
@@ -66,19 +66,19 @@ Below, you can find the table of contents with each heading in the list corressp
 
 ## Enterprise
 
-- Need more suggestions, checkout issues and contribute yours.
+- Need more suggestions, checkout issues, and contribute yours.
 
-## Great Discoverablity in Docs
+## Great Discoverability in Docs
 
-- Need more suggestions, checkout issues and contribute yours.
+- Need more suggestions, checkout issues, and contribute yours.
 
 ## Focus on Accessiblity (a11y)
 
-- Need more suggestions, checkout issues and contribute yours.
+- Need more suggestions, checkout issues, and contribute yours.
 
 ## Focus on Internationalization (i18n)
 
-- Need more suggestions, checkout issues and contribute yours.
+- Need more suggestions, checkout issues, and contribute yours.
 
 ## Changelog
 
@@ -87,4 +87,4 @@ Below, you can find the table of contents with each heading in the list corressp
 
 ## Patterns & Best Practices
 
-- Need more suggestions, checkout issues and contribute yours.
+- Need more suggestions, checkout issues, and contribute yours.
