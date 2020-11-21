@@ -2,7 +2,8 @@
 
 > A curated list of awesome real-life documentation examples 
 
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/) [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0) [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![HitCount](https://hits.dwyl.com/vipulgupta2048/awesome-documentation.svg)](https://hits.dwyl.com/vipulgupta2048/awesome-documentation)
+![GitHub issues](https://img.shields.io/github/issues-raw/vipulgupta2048/awesome-documentation?color=brightgreen&style=plastic) ![GitHub labels](https://img.shields.io/github/labels/vipulgupta2048/awesome-documentation/help-wanted?color=red&style=plastic) ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=plastic&color=blueviolet) [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0) [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ![ViewCount](https://views.whatilearened.today/views/github/vipulgupta2048/awesome-documentation.svg) 
+
 
 ## About
 
