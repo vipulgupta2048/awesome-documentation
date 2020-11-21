@@ -29,31 +29,42 @@ Below, you can find the table of contents with each heading in the list correspo
 
 ---
 
+## All stars of documentation!
+
+- [Gitlab](https://about.gitlab.com/resources/) - Gitlab's accurate docs coupled with flow of information and scale they handle sets them apart to be a prime example for techincal, non-technical as well as internal documentation. Their handbook, guides, tutorials are extremely well done. Look no further.
+- Looking forward to review & add more to the list below, [Hit me up!!](https://twitter.com/vipulgupta2048) or make a pull request of your own!
+
 ## Getting Started 
 
-- [Django Getting Started](https://www.djangoproject.com/start/) - https://github.com/django/django/tree/master/docs
-- [balena Getting Started](https://www.balena.io/docs/learn/getting-started/raspberrypi3/nodejs/) - https://github.com/balena-io/docs
-- [Docker Getting Started](https://docs.docker.com/get-started/) - https://github.com/docker/docker.github.io/
+- [Django getting started](https://www.djangoproject.com/start/) - https://github.com/django/django/tree/master/docs
+- [balena getting started](https://www.balena.io/docs/learn/getting-started/raspberrypi3/nodejs/) - https://github.com/balena-io/docs
+- [Docker getting started](https://docs.docker.com/get-started/) - https://github.com/docker/docker.github.io/
+- [Prisma Getting Started](https://www.prisma.io/docs/getting-started/quickstart-typescript)
+- [Create React App](https://create-react-app.dev/docs/getting-started)
 
 ## Tutorials & Guides
 
-- [Gatsby Tutorials](https://www.gatsbyjs.com/tutorial/)
-- [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
-- [Twilio Guides](https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates)
-- [Repl.it Tutorials](https://docs.repl.it/tutorials/00-overview)
+- [Gatsby tutorials](https://www.gatsbyjs.com/tutorial/)
+- [DigitalOcean tutorials](https://www.digitalocean.com/community/tutorials)
+- [Twilio guides](https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates)
+- [Repl.it tutorials](https://docs.repl.it/tutorials/00-overview)
 
 ## References
 
-- [Docker References](https://docs.docker.com/reference/) 
+- [Docker references](https://docs.docker.com/reference/)
 
-## Cookbooks
+## Cookbooks & Integrations
 
-- Need more suggestions, checkout issues, and contribute yours.
+- [spaCy code examples](https://spacy.io/usage/examples) as well as [spaCy Guides](https://spacy.io/usage/linguistic-features)
+- [Vercel Guides](https://vercel.com/guides)
+- 
 
 ## API/SDK
 
-- [Stripe API Reference](https://stripe.com/docs/api)
-- Need more suggestions, checkout issues, and contribute yours.
+- [Stripe API reference](https://stripe.com/docs/api)
+- [FrontApp API reference](https://dev.frontapp.com/reference/contact-groups)
+- [FastAPI API framework](https://fastapi.tiangolo.com/)
+- [Razorpay API reference](https://razorpay.com/docs/api/)
 
 ## Neat ways of versioning the docs
 
@@ -67,15 +78,22 @@ Below, you can find the table of contents with each heading in the list correspo
 
 ## Enterprise
 
-- Need more suggestions, checkout issues, and contribute yours.
+- [GitHub for Enterprise](https://docs.github.com/en/enterprise-server@2.22/admin)
+- [Gitlab Maturity Document](https://about.gitlab.com/direction/maturity/) 
 
 ## Great Discoverability in Docs
 
-- Need more suggestions, checkout issues, and contribute yours.
+Docs having pretty as heck, landing pages intelligently leaking details about product, getting started, ways ahead, guides, maybe even their CLI, integrations, SDK, or API. 
 
-## Focus on Accessiblity (a11y)
+- [Terraform Docs](https://www.terraform.io/docs/index.html)
+- [Lodash docs](https://lodash.com/docs/4.17.15)
+- [RazorPay Docs](https://razorpay.com/docs/)
+- [Algolia Docs](https://www.algolia.com/doc/)
 
-- Need more suggestions, checkout issues, and contribute yours.
+## Keeping it Super Simple (KISS)
+
+- [Asana Docs](https://asana.com/guide)
+- [Fast Logins Docs](https://www.fast.co/docs) 
 
 ## Focus on Internationalization (i18n)
 
@@ -85,7 +103,7 @@ Below, you can find the table of contents with each heading in the list correspo
 
 - [GatherContent](https://gathercontent.com/whats-new)
 - [Todoist changelogs](https://get.todoist.help/hc/en-us/sections/360004759319-Changelogs)
+- [Notion Changelogs](https://www.notion.so/What-s-New-157765353f2c4705bd45474e5ba8b46c) - Incredible example of dogfooding.
 
-## Patterns & Best Practices
-
-- Need more suggestions, checkout issues, and contribute yours.
+## Others
+- [Notion Help & Support](https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004)
