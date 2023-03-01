@@ -79,7 +79,7 @@ Each of the headings listed below corresponds to an actual section of documentat
 ## API/SDK
 
 - [Stripe API reference](https://stripe.com/docs/api)
-- [FrontApp API reference](https://dev.frontapp.com/reference/contact-groups)
+- [FrontApp API reference](https://dev.frontapp.com/reference/introduction)
 - [FastAPI API framework](https://fastapi.tiangolo.com/)
 - [Razorpay API reference](https://razorpay.com/docs/api/)
 
