@@ -59,7 +59,7 @@ Each of the headings listed below corresponds to an actual section of documentat
 - [Gatsby tutorials](https://www.gatsbyjs.com/tutorial/)
 - [DigitalOcean tutorials](https://www.digitalocean.com/community/tutorials)
 - [Twilio guides](https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates)
-- [Repl.it tutorials](https://docs.repl.it/tutorials/00-overview)
+- [Repl.it tutorials](https://docs.replit.com/tutorials/overview)
 - [Webflow tutorials](https://university.webflow.com/lesson) - Special mention to the Webflow for the work they have put into their tutorials. These form a prime example of a quote I like which goes like.
 
 > The difference between good work and great work is just a little extra effort & attention to detail. Something as a documentarian we should always try to look out for. 
