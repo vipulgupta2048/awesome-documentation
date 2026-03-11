@@ -82,6 +82,7 @@ Each of the headings listed below corresponds to an actual section of documentat
 - [FrontApp API reference](https://dev.frontapp.com/reference/introduction)
 - [FastAPI API framework](https://fastapi.tiangolo.com/)
 - [Razorpay API reference](https://razorpay.com/docs/api/)
+- [Xquik API Documentation](https://docs.xquik.com) - [GitHub Repository](https://github.com/Xquik-dev/xquik-docs)
 
 
 ## Neat ways of versioning the docs
